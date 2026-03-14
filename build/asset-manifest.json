@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sarvesh.dev/static/css/main.94c06f0d.css",
+    "main.js": "/Sarvesh.dev/static/js/main.dbab12ed.js",
+    "index.html": "/Sarvesh.dev/index.html",
+    "main.94c06f0d.css.map": "/Sarvesh.dev/static/css/main.94c06f0d.css.map",
+    "main.dbab12ed.js.map": "/Sarvesh.dev/static/js/main.dbab12ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c06f0d.css",
+    "static/js/main.dbab12ed.js"
+  ]
+}
