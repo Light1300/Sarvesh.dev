@@ -36,6 +36,10 @@ export const SKILL_GROUPS: SkillGroup[] = [
     label: 'Observability',
     tags: [
       { name: 'Prometheus', url: 'https://prometheus.io/docs/introduction/overview/' },
+      {name:'Grafana', url :' https://grafana.com/'},
+      {name:'New-Relic', url :'https://newrelic.com/'},
+      {name:'Post-Hog', url :'https://posthog.com/'},
+
     ],
   },
   {
