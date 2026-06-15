@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sarvesh.dev/static/css/main.94c06f0d.css",
-    "main.js": "/Sarvesh.dev/static/js/main.dbab12ed.js",
+    "main.css": "/Sarvesh.dev/static/css/main.44a2e3b0.css",
+    "main.js": "/Sarvesh.dev/static/js/main.1e9de761.js",
     "index.html": "/Sarvesh.dev/index.html",
-    "main.94c06f0d.css.map": "/Sarvesh.dev/static/css/main.94c06f0d.css.map",
-    "main.dbab12ed.js.map": "/Sarvesh.dev/static/js/main.dbab12ed.js.map"
+    "main.44a2e3b0.css.map": "/Sarvesh.dev/static/css/main.44a2e3b0.css.map",
+    "main.1e9de761.js.map": "/Sarvesh.dev/static/js/main.1e9de761.js.map"
   },
   "entrypoints": [
-    "static/css/main.94c06f0d.css",
-    "static/js/main.dbab12ed.js"
+    "static/css/main.44a2e3b0.css",
+    "static/js/main.1e9de761.js"
   ]
 }
